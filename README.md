@@ -38,11 +38,12 @@ Where:
 * $g(h) = g_0 \left(\frac{R_e}{R_e + h}\right)^2$ is the gravitational acceleration.
 
 ### 3. Atmospheric Reentry Dynamics
-**Once the second stage exhausts its remaining fuel, the rocket transitions into a controlled reentry phase. Atmospheric drag increases rapidly as altitude decreases, slowing the vehicle before touchdown.
-Freentry=D+mg
-The simulation continuously adjusts velocity, descent rate, and orientation to ensure a smooth landing back at the launch site.**
----
+Once the second stage exhausts its remaining fuel, the rocket transitions into a controlled reentry phase. Atmospheric drag increases rapidly as altitude decreases, slowing the vehicle before touchdown.
 
+Freentry=D+mg
+The simulation continuously adjusts velocity, descent rate, and orientation to ensure a smooth landing back at the launch site.
+
+---
 ## 🛠️ Tech Stack
 
 * **Frontend Framework:** HTML5, CSS3, JavaScript (ES6+)
